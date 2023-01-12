@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Bumper",
+        "email": "mdborhanuddinmajumder058@gmail.com",
+        "price": "110",
+        "minQuantity": 50,
+        "avlbQuantity": 120,
+        "description": "Bumper - Front, Chrome, Includes Bumper Ends, Headlights and Lower Air Deflectors.",
+        "img": "https://i.ibb.co/3Rtf4Hj/Bumper.jpg"
+    },
+    {
+        "name": "Windshield-parts",
+        "email": "0318402483@student.wub.edu.bd",
+        "price": "120",
+        "minQuantity": 50,
+        "avlbQuantity": 120,
+        "description": "AutoGlass can also ship your windshield, vent, door, quarter or back glass within the 48 contiguous states..",
+        "img": "https://i.ibb.co/L8Sy9HB/windshield-parts.jpg"
+    },
+    {
+        "name": "Grille",
+        "email": "mdborhanuddinmajumder058@gmail.com",
+        "price": "143.98",
+        "minQuantity": 50,
+        "avlbQuantity": 120,
+        "description": "In automotive engineering, a grille covers an opening in the body of a vehicle to allow air to enter or exit.",
+        "img": "https://i.ibb.co/R25fZKG/grille.jpg"
+    },
+    {
+        "name": "Hoods",
+        "email": "0318402483@student.wub.edu.bd",
+        "price": "69.99",
+        "minQuantity": 50,
+        "avlbQuantity": 120,
+        "description": "Custom Hoods give your stock looking vehicle a more aggressive, high performance appearance. High strength composite construction and internally reinforced for increased durability.",
+        "img": "https://i.ibb.co/VQcznRQ/hoods.jpg"
+    },
+    {
+        "name": "Suspension",
+        "email": "mdborhanuddinmajumder058@gmail.com",
+        "price": "179.45",
+        "minQuantity": 50,
+        "avlbQuantity": 120,
+        "description": "If you are going to shop for either Suspension Aspire 5 Slim vs Suspension Swift 3, we will provide details about them that will help you choose the right one.",
+        "img": "https://i.ibb.co/LrM9kFH/suspension.png"
+    },
+    {
+        "name": "Window Fitting",
+        "email": "0318402483@student.wub.edu.bd",
+        "price": "30",
+        "minQuantity": 50,
+        "avlbQuantity": 120,
+        "description": "Attach the glass panel to the regulator and bolt the window track down, then run the new glass up and down to ensure that the motion is satisfactory.",
+        "img": "https://i.ibb.co/C0nWQTJ/window-fitting.jpg"
+    },
+    {
+        "name": "Radiator_part",
+        "email": "mdborhanuddinmajumder058@gmail.com",
+        "price": "122",
+        "minQuantity": 50,
+        "avlbQuantity": 120,
+        "description": "The tubes and fins make up the core of the truck radiator and are lined up with headers at every end.",
+        "img": "https://i.ibb.co/HhbHpXV/radiator-part.jpg"
+    },
+    {
+        "name": "Door-handle",
+        "email": "0318402483@student.wub.edu.bd",
+        "price": "70",
+        "minQuantity": 50,
+        "avlbQuantity": 120,
+        "description": "Car Handle Assist for Elderly , car Door Handle for Elderly Auto Cane Car Handle Assist Support Handle Multifunction Handle for Elderly and Handicapped.",
+        "img": "https://i.ibb.co/hC7DH5X/door-handle.jpg"
+    },
+    {
+        "name": "Turn Light",
+        "email": "0318402483@student.wub.edu.bd",
+        "price": "54",
+        "minQuantity": 50,
+        "avlbQuantity": 120,
+        "description": "A defect in the car’s flasher relay can cause the turn signal to blink at a faster speed.",
+        "img": "https://i.ibb.co/C57wh1h/turn-light.png"
+    },
+    {
+        "name": "Tailgate",
+        "email": "0318402483@student.wub.edu.bd",
+        "price": "45",
+        "minQuantity": 50,
+        "avlbQuantity": 120,
+        "description": "We have a wide selection of high-quality tailgates for trucks of various makes and models at unbeatable prices. Get them per piece or by sets.",
+        "img": "https://i.ibb.co/wyDcZjp/tailgate.jpg"
+    },
+    {
+        "name": "Rear View Mirror",
+        "email": "0318402483@student.wub.edu.bd",
+        "price": "30",
+        "minQuantity": 50,
+        "avlbQuantity": 120,
+        "description": "The standard, single-panel rear view mirror is by far the most commonly seen addition to most cars and trucks.",
+        "img": "https://i.ibb.co/HgZ0BWc/rear-view-mirror.jpg"
+    }
+]
